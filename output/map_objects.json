@@ -1,0 +1,52 @@
+{
+  "objects": [
+    {
+      "type": "bicycle",
+      "condition": "bicycle detected",
+      "position": [
+        2,
+        2
+      ]
+    },
+    {
+      "type": "horse",
+      "condition": "horse detected",
+      "position": [
+        2,
+        0
+      ]
+    },
+    {
+      "type": "cow",
+      "condition": "cow detected",
+      "position": [
+        2,
+        0
+      ]
+    },
+    {
+      "type": "person",
+      "condition": "person detected",
+      "position": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": "start_position",
+      "condition": "starting point",
+      "position": [
+        0,
+        2
+      ]
+    },
+    {
+      "type": "finish_position",
+      "condition": "goal point",
+      "position": [
+        3,
+        4
+      ]
+    }
+  ]
+}

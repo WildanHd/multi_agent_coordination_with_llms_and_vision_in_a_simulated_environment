@@ -1,0 +1,28 @@
+{
+  "objects": [
+    {
+      "type": "traffic light",
+      "condition": "traffic light detected",
+      "position": [
+        0,
+        4
+      ]
+    },
+    {
+      "type": "start_position",
+      "condition": "starting point",
+      "position": [
+        2,
+        4
+      ]
+    },
+    {
+      "type": "finish_position",
+      "condition": "goal point",
+      "position": [
+        3,
+        2
+      ]
+    }
+  ]
+}

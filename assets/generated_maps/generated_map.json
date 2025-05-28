@@ -1,0 +1,27 @@
+{
+  "start": {
+    "row": 4,
+    "col": 2
+  },
+  "finish": {
+    "row": 2,
+    "col": 3
+  },
+  "objects": [
+    {
+      "type": "rocks",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "type": "red",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "type": "tree",
+      "row": 3,
+      "col": 2
+    }
+  ]
+}
