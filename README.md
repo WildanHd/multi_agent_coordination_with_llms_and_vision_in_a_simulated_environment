@@ -3,7 +3,7 @@
  The design could be found here:
  https://docs.google.com/spreadsheets/d/1jpUQnwA8zCu-duwMjVCKZt5OCxphyJNBrwxBqImbw78/edit?usp=sharing
 
-a. Project Title: Multi-Agent Grid Navigation in a Simulated Environment
+a. Project Title: Multi-Agent Grid Navigation in a Simulated Environment \
 b. Description: Developed a modular AI system consisting of multiple agents interacting within a 2D grid world.
 c. Vision Agent: Interprets a grid map using either YOLO or template matching to identify objects, start/finish positions.
 d. Planning Agent: Computes the optimal path using rule-based BFS while avoiding detected obstacles. This project also try to integrate OpenRouter.ai-based LLM for natural-language route planning and explanation.
