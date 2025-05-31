@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 
 # Set OpenRouter.ai API config
-openai.api_key = "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"  
+openai.api_key = "api-key"  
 openai.api_base = "https://openrouter.ai/api/v1"
 
 def plan_route_with_llm(vision_output_path, output_path="output/llm_route_output.json"):
